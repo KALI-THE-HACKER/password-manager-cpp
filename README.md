@@ -2,7 +2,7 @@
 A simple C++ tool to save passwords in encrypted form with locker feature, it means, who have the correct username and password, can only use this tool.
 
 ## Operating System
-Windows
+<h3>Windows</h3>
 
 ## Dependencies
 ```
