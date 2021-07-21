@@ -1,5 +1,5 @@
 # password-manager-cpp [C++, Windows]
-A simple C++ tool to save passwords in encrypted form with locker feauture, it means, who have the correct username and password, only can use this tool.
+A simple C++ tool to save passwords in encrypted form with locker feature, it means, who have the correct username and password, can only use this tool.
 
 ## Operating System
 Windows
